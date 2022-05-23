@@ -13,6 +13,7 @@ public class PrintArray {
     	  System.out.println("Invalid number try again ");
     	  n= input.nextInt();
     	  System.out.println("hello");
+	      System.out.println("Newhello");
       }
       int []numbers = new int[n];
       printArrayOfInteger(numbers);
