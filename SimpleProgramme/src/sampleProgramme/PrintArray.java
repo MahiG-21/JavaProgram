@@ -14,6 +14,7 @@ public class PrintArray {
     	  n= input.nextInt();
     	  System.out.println("hello");
 	      System.out.println("Newhello");
+	      System.out.println("Finally successul message");
       }
       int []numbers = new int[n];
       printArrayOfInteger(numbers);
