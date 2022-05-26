@@ -14,6 +14,7 @@ public class PrintArray {
     	  n= input.nextInt();
     	  System.out.println("hello");
 	      System.out.println("Newhello");
+	      System.out.println("Added new commit ");
       }
       int []numbers = new int[n];
       printArrayOfInteger(numbers);
