@@ -15,6 +15,8 @@ public class PrintArray {
     	  System.out.println("hello");
 	      System.out.println("Newhello");
 	      System.out.println("Finally successul message1");
+	      System.out.println("Added new commit ");
+	      System.out.print("final commit");
       }
       int []numbers = new int[n];
       printArrayOfInteger(numbers);
